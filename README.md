@@ -5,7 +5,7 @@
 
 **Puzzle Master** is a ready-to-use jigsaw puzzle template for Unity. It includes a menu with a gallery system, multiple levels, smooth drag-and-drop mechanics, and progress saving. Perfect for game jams, prototypes, or as a foundation for a full puzzle game.
 
-![Puzzle Master Demo](Screenshots/PreviewImage)
+![Puzzle Master Demo](Screenshots/PreviewImage.png)
 
 ## ✨ Features
 
