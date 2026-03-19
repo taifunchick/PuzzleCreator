@@ -1,5 +1,4 @@
-# Puzzle Master - Complete Jigsaw Puzzle System
-
+# Puzzle Master
 [![Unity Version](https://img.shields.io/badge/Unity-2021.3%2B-blueviolet)](https://unity.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -32,6 +31,8 @@
 - Unity 2021.3 or newer
 - TextMesh Pro (installs automatically on import)
 
+![Menu](Screenshots/MenuImage.png)
+
 ### Installation
 
 1. **Clone or download** this repository
@@ -55,6 +56,8 @@
 4. Add this PuzzleData to:
    - `GalleryManager` → `All Levels` array (in Menu scene)
    - `GameManager` → `All Levels` array (in Game scene)
+
+![Game](Screenshots/GameImage.png)
 
 ## 🧩 Scripts Overview
 
@@ -87,6 +90,8 @@
 ### Changing Gallery Layout
 - Adjust `Grid Layout Group` on `GalleryContainer`
 - Modify `itemsPerPage` in GalleryManager
+
+![Gallery](Screenshots/GalleryImage.png)
 
 ### Saving System
 Progress is stored in PlayerPrefs with key `"CompletedLevels"`. You can extend `SaveManager.cs` to use binary files or JSON.
