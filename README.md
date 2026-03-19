@@ -5,7 +5,7 @@
 
 **Puzzle Master** is a ready-to-use jigsaw puzzle template for Unity. It includes a menu with a gallery system, multiple levels, smooth drag-and-drop mechanics, and progress saving. Perfect for game jams, prototypes, or as a foundation for a full puzzle game.
 
-![Puzzle Master Demo](screenshots/demo.gif) *(Add your screenshot here)*
+![Puzzle Master Demo](Screenshots/PreviewImage)
 
 ## ✨ Features
 
@@ -55,30 +55,6 @@
 4. Add this PuzzleData to:
    - `GalleryManager` → `All Levels` array (in Menu scene)
    - `GameManager` → `All Levels` array (in Game scene)
-
-## 📁 Project Structure
-Assets/
-├── PuzzleMaster/
-│ ├── Documentation/
-│ │ └── PuzzleMaster_Documentation.pdf
-│ ├── Prefabs/
-│ │ ├── PuzzlePiece.prefab
-│ │ └── GalleryItem.prefab
-│ ├── Scenes/
-│ │ ├── Menu.unity
-│ │ └── Game.unity
-│ ├── Scripts/
-│ │ ├── Core/
-│ │ │ ├── GameManager.cs
-│ │ │ ├── SaveManager.cs
-│ │ │ └── PuzzleData.cs
-│ │ ├── UI/
-│ │ │ ├── GalleryManager.cs
-│ │ │ └── VictoryPanel.cs
-│ │ └── PuzzlePiece.cs
-│ ├── ScriptableObjects/
-│ │ └── Levels/ (your level data)
-│ └── Sprites/ (example artwork)
 
 ## 🧩 Scripts Overview
 
@@ -133,8 +109,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or support:  
-[Your Name](mailto:your.email@example.com)  
-[GitHub Profile](https://github.com/yourusername)
+[TAIFUN](https://telegram.org/k/#@taifunblade)  
+[GitHub Profile](https://github.com/taifunchick)
 
 ---
 
