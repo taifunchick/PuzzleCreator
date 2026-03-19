@@ -1,0 +1,26 @@
+PUZZLE MASTER - QUICK START
+===========================
+
+1. REQUIREMENTS:
+   - Unity 2021.3+
+   - TextMesh Pro (auto-installs)
+
+2. SCENES:
+   - Menu.unity - main menu with gallery
+   - Game.unity - gameplay scene
+
+3. SETUP:
+   - Open Menu scene
+   - Select GalleryManager and add your PuzzleData files
+   - Open Game scene
+   - Select GameManager and add same PuzzleData files
+
+4. CREATING LEVELS:
+   - Create > Puzzle Master > Puzzle Data
+   - Fill sprites and positions
+   - Add to manager arrays
+
+5. SAVING:
+   Progress auto-saves to PlayerPrefs
+
+For full documentation see PDF (if you create one later)

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a768900a767ffe41a33731a17e7fdbd, type: 3}
+  m_Name: Level5
+  m_EditorClassIdentifier: 
+  fullArt: {fileID: 21300000, guid: 836dcc9fc1c65f043baaea85ae302748, type: 3}
+  referenceArt: {fileID: 21300000, guid: 836dcc9fc1c65f043baaea85ae302748, type: 3}
+  pieceSprites:
+  - {fileID: -270809742, guid: b12108b2ef5f4724280771609652f17b, type: 3}
+  - {fileID: -2014228472, guid: b12108b2ef5f4724280771609652f17b, type: 3}
+  - {fileID: 782062228, guid: b12108b2ef5f4724280771609652f17b, type: 3}
+  - {fileID: 809371336, guid: b12108b2ef5f4724280771609652f17b, type: 3}
+  - {fileID: 421185545, guid: b12108b2ef5f4724280771609652f17b, type: 3}
+  - {fileID: 891617247, guid: b12108b2ef5f4724280771609652f17b, type: 3}
+  - {fileID: 1111968406, guid: b12108b2ef5f4724280771609652f17b, type: 3}
+  - {fileID: -1157319957, guid: b12108b2ef5f4724280771609652f17b, type: 3}
+  piecePositions:
+  - {x: -52.2, y: 110.5}
+  - {x: 46, y: 110.5}
+  - {x: -52.2, y: 36.8}
+  - {x: 46, y: 36.8}
+  - {x: -52.2, y: -36.8}
+  - {x: 46, y: -36.8}
+  - {x: -52.2, y: -110.5}
+  - {x: 46, y: -110.5}
+  startPositions:
+  - {x: 7.75, y: 2.25}
+  - {x: 5.75, y: 2.25}
+  - {x: 7.75, y: 0.75}
+  - {x: 5.75, y: 0.75}
+  - {x: 7.75, y: -0.75}
+  - {x: 5.75, y: -0.75}
+  - {x: 7.75, y: -2.25}
+  - {x: 5.75, y: -2.25}
