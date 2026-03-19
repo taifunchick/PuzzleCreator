@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or support:  
-[TAIFUN](https://web.telegram.org/k/#@taifunblade)  
+[TAIFUN](https://t.me/taifundev)  
 [GitHub Profile](https://github.com/taifunchick)
 
 ---
